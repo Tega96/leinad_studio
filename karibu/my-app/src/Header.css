@@ -1,0 +1,28 @@
+.total {
+    display: flex;
+    justify-content: space-between;
+    background-color: #DFDFDF;
+}
+.logo-img {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.order {
+    display: flex;
+    flex-direction: flex-row;
+    justify-content: flex-end;
+    margin-right: 40px;
+    gap: 10px;
+}
+.nav-bar {
+    display: flex;
+    gap: 15px;
+}
+.nav-item {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    gap: 7px;
+    
+}
